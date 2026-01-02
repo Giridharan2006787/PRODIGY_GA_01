@@ -1,0 +1,5 @@
+Artificial intelligence is the ability of machines to think and learn.
+Machine learning allows systems to improve automatically with data.
+Deep learning is a type of machine learning using neural networks.
+AI is widely used in healthcare, education, and transportation.
+
